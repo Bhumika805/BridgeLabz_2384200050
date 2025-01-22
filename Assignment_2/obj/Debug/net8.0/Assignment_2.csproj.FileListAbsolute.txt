@@ -1,0 +1,15 @@
+E:\github\BridgeLabz_2384200050\Assignment_2\bin\Debug\net8.0\Assignment_2.exe
+E:\github\BridgeLabz_2384200050\Assignment_2\bin\Debug\net8.0\Assignment_2.deps.json
+E:\github\BridgeLabz_2384200050\Assignment_2\bin\Debug\net8.0\Assignment_2.runtimeconfig.json
+E:\github\BridgeLabz_2384200050\Assignment_2\bin\Debug\net8.0\Assignment_2.dll
+E:\github\BridgeLabz_2384200050\Assignment_2\bin\Debug\net8.0\Assignment_2.pdb
+E:\github\BridgeLabz_2384200050\Assignment_2\obj\Debug\net8.0\Assignment_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\BridgeLabz_2384200050\Assignment_2\obj\Debug\net8.0\Assignment_2.AssemblyInfoInputs.cache
+E:\github\BridgeLabz_2384200050\Assignment_2\obj\Debug\net8.0\Assignment_2.AssemblyInfo.cs
+E:\github\BridgeLabz_2384200050\Assignment_2\obj\Debug\net8.0\Assignment_2.csproj.CoreCompileInputs.cache
+E:\github\BridgeLabz_2384200050\Assignment_2\obj\Debug\net8.0\Assignment_2.sourcelink.json
+E:\github\BridgeLabz_2384200050\Assignment_2\obj\Debug\net8.0\Assignment_2.dll
+E:\github\BridgeLabz_2384200050\Assignment_2\obj\Debug\net8.0\refint\Assignment_2.dll
+E:\github\BridgeLabz_2384200050\Assignment_2\obj\Debug\net8.0\Assignment_2.pdb
+E:\github\BridgeLabz_2384200050\Assignment_2\obj\Debug\net8.0\Assignment_2.genruntimeconfig.cache
+E:\github\BridgeLabz_2384200050\Assignment_2\obj\Debug\net8.0\ref\Assignment_2.dll
