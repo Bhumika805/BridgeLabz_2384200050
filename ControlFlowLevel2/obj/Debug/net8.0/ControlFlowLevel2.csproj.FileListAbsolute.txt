@@ -1,0 +1,15 @@
+E:\github\C# Questions\ControlFlowLevel2\bin\Debug\net8.0\ControlFlowLevel2.exe
+E:\github\C# Questions\ControlFlowLevel2\bin\Debug\net8.0\ControlFlowLevel2.deps.json
+E:\github\C# Questions\ControlFlowLevel2\bin\Debug\net8.0\ControlFlowLevel2.runtimeconfig.json
+E:\github\C# Questions\ControlFlowLevel2\bin\Debug\net8.0\ControlFlowLevel2.dll
+E:\github\C# Questions\ControlFlowLevel2\bin\Debug\net8.0\ControlFlowLevel2.pdb
+E:\github\C# Questions\ControlFlowLevel2\obj\Debug\net8.0\ControlFlowLevel2.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\C# Questions\ControlFlowLevel2\obj\Debug\net8.0\ControlFlowLevel2.AssemblyInfoInputs.cache
+E:\github\C# Questions\ControlFlowLevel2\obj\Debug\net8.0\ControlFlowLevel2.AssemblyInfo.cs
+E:\github\C# Questions\ControlFlowLevel2\obj\Debug\net8.0\ControlFlowLevel2.csproj.CoreCompileInputs.cache
+E:\github\C# Questions\ControlFlowLevel2\obj\Debug\net8.0\ControlFlowLevel2.sourcelink.json
+E:\github\C# Questions\ControlFlowLevel2\obj\Debug\net8.0\ControlFlowLevel2.dll
+E:\github\C# Questions\ControlFlowLevel2\obj\Debug\net8.0\refint\ControlFlowLevel2.dll
+E:\github\C# Questions\ControlFlowLevel2\obj\Debug\net8.0\ControlFlowLevel2.pdb
+E:\github\C# Questions\ControlFlowLevel2\obj\Debug\net8.0\ControlFlowLevel2.genruntimeconfig.cache
+E:\github\C# Questions\ControlFlowLevel2\obj\Debug\net8.0\ref\ControlFlowLevel2.dll
