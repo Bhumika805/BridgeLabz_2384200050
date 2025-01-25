@@ -1,0 +1,15 @@
+E:\github\BridgeLabz_2384200050\ArrayLevel1\bin\Debug\net8.0\ArrayLevel1.exe
+E:\github\BridgeLabz_2384200050\ArrayLevel1\bin\Debug\net8.0\ArrayLevel1.deps.json
+E:\github\BridgeLabz_2384200050\ArrayLevel1\bin\Debug\net8.0\ArrayLevel1.runtimeconfig.json
+E:\github\BridgeLabz_2384200050\ArrayLevel1\bin\Debug\net8.0\ArrayLevel1.dll
+E:\github\BridgeLabz_2384200050\ArrayLevel1\bin\Debug\net8.0\ArrayLevel1.pdb
+E:\github\BridgeLabz_2384200050\ArrayLevel1\obj\Debug\net8.0\ArrayLevel1.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\BridgeLabz_2384200050\ArrayLevel1\obj\Debug\net8.0\ArrayLevel1.AssemblyInfoInputs.cache
+E:\github\BridgeLabz_2384200050\ArrayLevel1\obj\Debug\net8.0\ArrayLevel1.AssemblyInfo.cs
+E:\github\BridgeLabz_2384200050\ArrayLevel1\obj\Debug\net8.0\ArrayLevel1.csproj.CoreCompileInputs.cache
+E:\github\BridgeLabz_2384200050\ArrayLevel1\obj\Debug\net8.0\ArrayLevel1.sourcelink.json
+E:\github\BridgeLabz_2384200050\ArrayLevel1\obj\Debug\net8.0\ArrayLevel1.dll
+E:\github\BridgeLabz_2384200050\ArrayLevel1\obj\Debug\net8.0\refint\ArrayLevel1.dll
+E:\github\BridgeLabz_2384200050\ArrayLevel1\obj\Debug\net8.0\ArrayLevel1.pdb
+E:\github\BridgeLabz_2384200050\ArrayLevel1\obj\Debug\net8.0\ArrayLevel1.genruntimeconfig.cache
+E:\github\BridgeLabz_2384200050\ArrayLevel1\obj\Debug\net8.0\ref\ArrayLevel1.dll
