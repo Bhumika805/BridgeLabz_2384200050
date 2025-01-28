@@ -1,0 +1,15 @@
+E:\github\BridgeLabz_2384200050\PracticeProgram3\bin\Debug\net8.0\PracticeProgram3.exe
+E:\github\BridgeLabz_2384200050\PracticeProgram3\bin\Debug\net8.0\PracticeProgram3.deps.json
+E:\github\BridgeLabz_2384200050\PracticeProgram3\bin\Debug\net8.0\PracticeProgram3.runtimeconfig.json
+E:\github\BridgeLabz_2384200050\PracticeProgram3\bin\Debug\net8.0\PracticeProgram3.dll
+E:\github\BridgeLabz_2384200050\PracticeProgram3\bin\Debug\net8.0\PracticeProgram3.pdb
+E:\github\BridgeLabz_2384200050\PracticeProgram3\obj\Debug\net8.0\PracticeProgram3.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\BridgeLabz_2384200050\PracticeProgram3\obj\Debug\net8.0\PracticeProgram3.AssemblyInfoInputs.cache
+E:\github\BridgeLabz_2384200050\PracticeProgram3\obj\Debug\net8.0\PracticeProgram3.AssemblyInfo.cs
+E:\github\BridgeLabz_2384200050\PracticeProgram3\obj\Debug\net8.0\PracticeProgram3.csproj.CoreCompileInputs.cache
+E:\github\BridgeLabz_2384200050\PracticeProgram3\obj\Debug\net8.0\PracticeProgram3.sourcelink.json
+E:\github\BridgeLabz_2384200050\PracticeProgram3\obj\Debug\net8.0\PracticeProgram3.dll
+E:\github\BridgeLabz_2384200050\PracticeProgram3\obj\Debug\net8.0\refint\PracticeProgram3.dll
+E:\github\BridgeLabz_2384200050\PracticeProgram3\obj\Debug\net8.0\PracticeProgram3.pdb
+E:\github\BridgeLabz_2384200050\PracticeProgram3\obj\Debug\net8.0\PracticeProgram3.genruntimeconfig.cache
+E:\github\BridgeLabz_2384200050\PracticeProgram3\obj\Debug\net8.0\ref\PracticeProgram3.dll
