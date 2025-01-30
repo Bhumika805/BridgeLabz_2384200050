@@ -1,0 +1,14 @@
+E:\github\Practice\String_Functions\bin\Debug\net8.0\String_Functions.exe
+E:\github\Practice\String_Functions\bin\Debug\net8.0\String_Functions.deps.json
+E:\github\Practice\String_Functions\bin\Debug\net8.0\String_Functions.runtimeconfig.json
+E:\github\Practice\String_Functions\bin\Debug\net8.0\String_Functions.dll
+E:\github\Practice\String_Functions\bin\Debug\net8.0\String_Functions.pdb
+E:\github\Practice\String_Functions\obj\Debug\net8.0\String_Functions.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\Practice\String_Functions\obj\Debug\net8.0\String_Functions.AssemblyInfoInputs.cache
+E:\github\Practice\String_Functions\obj\Debug\net8.0\String_Functions.AssemblyInfo.cs
+E:\github\Practice\String_Functions\obj\Debug\net8.0\String_Functions.csproj.CoreCompileInputs.cache
+E:\github\Practice\String_Functions\obj\Debug\net8.0\String_Functions.dll
+E:\github\Practice\String_Functions\obj\Debug\net8.0\refint\String_Functions.dll
+E:\github\Practice\String_Functions\obj\Debug\net8.0\String_Functions.pdb
+E:\github\Practice\String_Functions\obj\Debug\net8.0\String_Functions.genruntimeconfig.cache
+E:\github\Practice\String_Functions\obj\Debug\net8.0\ref\String_Functions.dll
