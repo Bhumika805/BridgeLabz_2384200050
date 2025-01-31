@@ -1,0 +1,14 @@
+E:\github\Practice\BuiltInFunctions\bin\Debug\net8.0\BuiltInFunctions.exe
+E:\github\Practice\BuiltInFunctions\bin\Debug\net8.0\BuiltInFunctions.deps.json
+E:\github\Practice\BuiltInFunctions\bin\Debug\net8.0\BuiltInFunctions.runtimeconfig.json
+E:\github\Practice\BuiltInFunctions\bin\Debug\net8.0\BuiltInFunctions.dll
+E:\github\Practice\BuiltInFunctions\bin\Debug\net8.0\BuiltInFunctions.pdb
+E:\github\Practice\BuiltInFunctions\obj\Debug\net8.0\BuiltInFunctions.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\Practice\BuiltInFunctions\obj\Debug\net8.0\BuiltInFunctions.AssemblyInfoInputs.cache
+E:\github\Practice\BuiltInFunctions\obj\Debug\net8.0\BuiltInFunctions.AssemblyInfo.cs
+E:\github\Practice\BuiltInFunctions\obj\Debug\net8.0\BuiltInFunctions.csproj.CoreCompileInputs.cache
+E:\github\Practice\BuiltInFunctions\obj\Debug\net8.0\BuiltInFunctions.dll
+E:\github\Practice\BuiltInFunctions\obj\Debug\net8.0\refint\BuiltInFunctions.dll
+E:\github\Practice\BuiltInFunctions\obj\Debug\net8.0\BuiltInFunctions.pdb
+E:\github\Practice\BuiltInFunctions\obj\Debug\net8.0\BuiltInFunctions.genruntimeconfig.cache
+E:\github\Practice\BuiltInFunctions\obj\Debug\net8.0\ref\BuiltInFunctions.dll
