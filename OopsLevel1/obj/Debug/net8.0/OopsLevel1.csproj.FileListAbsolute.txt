@@ -1,0 +1,14 @@
+E:\github\Practice\OopsLevel1\bin\Debug\net8.0\OopsLevel1.exe
+E:\github\Practice\OopsLevel1\bin\Debug\net8.0\OopsLevel1.deps.json
+E:\github\Practice\OopsLevel1\bin\Debug\net8.0\OopsLevel1.runtimeconfig.json
+E:\github\Practice\OopsLevel1\bin\Debug\net8.0\OopsLevel1.dll
+E:\github\Practice\OopsLevel1\bin\Debug\net8.0\OopsLevel1.pdb
+E:\github\Practice\OopsLevel1\obj\Debug\net8.0\OopsLevel1.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\Practice\OopsLevel1\obj\Debug\net8.0\OopsLevel1.AssemblyInfoInputs.cache
+E:\github\Practice\OopsLevel1\obj\Debug\net8.0\OopsLevel1.AssemblyInfo.cs
+E:\github\Practice\OopsLevel1\obj\Debug\net8.0\OopsLevel1.csproj.CoreCompileInputs.cache
+E:\github\Practice\OopsLevel1\obj\Debug\net8.0\OopsLevel1.dll
+E:\github\Practice\OopsLevel1\obj\Debug\net8.0\refint\OopsLevel1.dll
+E:\github\Practice\OopsLevel1\obj\Debug\net8.0\OopsLevel1.pdb
+E:\github\Practice\OopsLevel1\obj\Debug\net8.0\OopsLevel1.genruntimeconfig.cache
+E:\github\Practice\OopsLevel1\obj\Debug\net8.0\ref\OopsLevel1.dll
