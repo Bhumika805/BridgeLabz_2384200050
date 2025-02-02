@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\github\\OOPS_classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|e:\\github\\oops_classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|E:\\github\\OOPS_classes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|E:\\github\\OOPS_classes\\hotelbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|solutionrelative:hotelbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|E:\\github\\OOPS_classes\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|E:\\github\\OOPS_classes\\book_library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|solutionrelative:book_library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|E:\\github\\OOPS_classes\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|E:\\github\\OOPS_classes\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|E:\\github\\OOPS_classes\\design_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|solutionrelative:design_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|E:\\github\\OOPS_classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|E:\\github\\OOPS_classes\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|solutionrelative:carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|E:\\github\\OOPS_classes\\librarybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|solutionrelative:librarybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|E:\\github\\OOPS_classes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|E:\\github\\OOPS_classes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|E:\\github\\OOPS_classes\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA8D8A7-E67C-45F6-8B6F-DBBD125D8E85}|OOPS_classes.csproj|solutionrelative:books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\github\\OOPS_classes\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "E:\\github\\OOPS_classes\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAYwEIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:59:15.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "E:\\github\\OOPS_classes\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "E:\\github\\OOPS_classes\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwDoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:55:41.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book_Library.cs",
+              "DocumentMoniker": "E:\\github\\OOPS_classes\\Book_Library.cs",
+              "RelativeDocumentMoniker": "Book_Library.cs",
+              "ToolTip": "E:\\github\\OOPS_classes\\Book_Library.cs",
+              "RelativeToolTip": "Book_Library.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwD8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:52:59.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\github\\OOPS_classes\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "E:\\github\\OOPS_classes\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAYwEMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:40:23.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "E:\\github\\OOPS_classes\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "E:\\github\\OOPS_classes\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwCEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:34:34.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Design_Course.cs",
+              "DocumentMoniker": "E:\\github\\OOPS_classes\\Design_Course.cs",
+              "RelativeDocumentMoniker": "Design_Course.cs",
+              "ToolTip": "E:\\github\\OOPS_classes\\Design_Course.cs",
+              "RelativeToolTip": "Design_Course.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwB8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:26:48.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\github\\OOPS_classes\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "E:\\github\\OOPS_classes\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:23:03.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "E:\\github\\OOPS_classes\\CarRental.cs",
+              "RelativeDocumentMoniker": "CarRental.cs",
+              "ToolTip": "E:\\github\\OOPS_classes\\CarRental.cs",
+              "RelativeToolTip": "CarRental.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA3wCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:19:06.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LibraryBook.cs",
+              "DocumentMoniker": "E:\\github\\OOPS_classes\\LibraryBook.cs",
+              "RelativeDocumentMoniker": "LibraryBook.cs",
+              "ToolTip": "E:\\github\\OOPS_classes\\LibraryBook.cs",
+              "RelativeToolTip": "LibraryBook.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:15:46.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HotelBooking.cs",
+              "DocumentMoniker": "E:\\github\\OOPS_classes\\HotelBooking.cs",
+              "RelativeDocumentMoniker": "HotelBooking.cs",
+              "ToolTip": "E:\\github\\OOPS_classes\\HotelBooking.cs",
+              "RelativeToolTip": "HotelBooking.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAowFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:11:05.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\github\\OOPS_classes\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "E:\\github\\OOPS_classes\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAowD0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:04:26.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "E:\\github\\OOPS_classes\\Circle.cs",
+              "RelativeDocumentMoniker": "Circle.cs",
+              "ToolTip": "E:\\github\\OOPS_classes\\Circle.cs",
+              "RelativeToolTip": "Circle.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAowEMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:53:55.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Books.cs",
+              "DocumentMoniker": "E:\\github\\OOPS_classes\\Books.cs",
+              "RelativeDocumentMoniker": "Books.cs",
+              "ToolTip": "E:\\github\\OOPS_classes\\Books.cs",
+              "RelativeToolTip": "Books.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAowEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:16:00.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\github\\OOPS_classes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\github\\OOPS_classes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:14:01.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 335,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

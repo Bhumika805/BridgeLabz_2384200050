@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\OOPS_classes\obj\Debug\OOPS_classes.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\OOPS_classes\obj\Debug\OOPS_classes.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\OOPS_classes\bin\Debug\OOPS_classes.exe.config
+C:\Users\Lenovo\source\repos\OOPS_classes\bin\Debug\OOPS_classes.exe
+C:\Users\Lenovo\source\repos\OOPS_classes\bin\Debug\OOPS_classes.pdb
+C:\Users\Lenovo\source\repos\OOPS_classes\obj\Debug\OOPS_classes.exe
+C:\Users\Lenovo\source\repos\OOPS_classes\obj\Debug\OOPS_classes.pdb
