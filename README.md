@@ -18,3 +18,7 @@ Completed Task1 (OOPS Concept Level1) in feature_31-01-2025 branch.
 
 Completed Task1 (OOPS_classes with Access Modifiers) in feature_02-02-2025 branch.
 
+Completed Task1 (Oops_Level1 with static, this, readonly, isOperator) in feature_04-02-2025 branch.
+
+
+
