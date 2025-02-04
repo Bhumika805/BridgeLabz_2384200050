@@ -1,0 +1,7 @@
+C:\Users\91870\source\repos\OOPs(This,sealed,is)\bin\Debug\OOPs(This,sealed,is).exe.config
+C:\Users\91870\source\repos\OOPs(This,sealed,is)\bin\Debug\OOPs(This,sealed,is).exe
+C:\Users\91870\source\repos\OOPs(This,sealed,is)\bin\Debug\OOPs(This,sealed,is).pdb
+C:\Users\91870\source\repos\OOPs(This,sealed,is)\obj\Debug\OOPs(This,sealed,is).csproj.AssemblyReference.cache
+C:\Users\91870\source\repos\OOPs(This,sealed,is)\obj\Debug\OOPs(This,sealed,is).csproj.CoreCompileInputs.cache
+C:\Users\91870\source\repos\OOPs(This,sealed,is)\obj\Debug\OOPs(This,sealed,is).exe
+C:\Users\91870\source\repos\OOPs(This,sealed,is)\obj\Debug\OOPs(This,sealed,is).pdb

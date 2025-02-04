@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91870\\source\\repos\\BankAccount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{456BC520-4804-4B1F-83C6-208BD2B71231}|BankAccountSystem.csproj|c:\\users\\91870\\source\\repos\\bankaccount\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456BC520-4804-4B1F-83C6-208BD2B71231}|BankAccountSystem.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8B941B-5CC4-48D5-8665-BD1A50B849AF}|..\\OOPs(This,sealed,is)\\OOPs(This,sealed,is).csproj|c:\\users\\91870\\source\\repos\\oops(this,sealed,is)\\hospitalmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8B941B-5CC4-48D5-8665-BD1A50B849AF}|..\\OOPs(This,sealed,is)\\OOPs(This,sealed,is).csproj|c:\\users\\91870\\source\\repos\\oops(this,sealed,is)\\vehicleregistrationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8B941B-5CC4-48D5-8665-BD1A50B849AF}|..\\OOPs(This,sealed,is)\\OOPs(This,sealed,is).csproj|c:\\users\\91870\\source\\repos\\oops(this,sealed,is)\\universitystudentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8B941B-5CC4-48D5-8665-BD1A50B849AF}|..\\OOPs(This,sealed,is)\\OOPs(This,sealed,is).csproj|c:\\users\\91870\\source\\repos\\oops(this,sealed,is)\\shoppingcartsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8B941B-5CC4-48D5-8665-BD1A50B849AF}|..\\OOPs(This,sealed,is)\\OOPs(This,sealed,is).csproj|c:\\users\\91870\\source\\repos\\oops(this,sealed,is)\\employeemanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8B941B-5CC4-48D5-8665-BD1A50B849AF}|..\\OOPs(This,sealed,is)\\OOPs(This,sealed,is).csproj|c:\\users\\91870\\source\\repos\\oops(this,sealed,is)\\librarymanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8B941B-5CC4-48D5-8665-BD1A50B849AF}|..\\OOPs(This,sealed,is)\\OOPs(This,sealed,is).csproj|c:\\users\\91870\\source\\repos\\oops(this,sealed,is)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8B941B-5CC4-48D5-8665-BD1A50B849AF}|..\\OOPs(This,sealed,is)\\OOPs(This,sealed,is).csproj|c:\\users\\91870\\source\\repos\\oops(this,sealed,is)\\callingallclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\BankAccount\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\BankAccount\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAqwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:07:14.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HospitalManagementSystem.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\OOPs(This,sealed,is)\\HospitalManagementSystem.cs",
+              "RelativeDocumentMoniker": "..\\OOPs(This,sealed,is)\\HospitalManagementSystem.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\OOPs(This,sealed,is)\\HospitalManagementSystem.cs",
+              "RelativeToolTip": "..\\OOPs(This,sealed,is)\\HospitalManagementSystem.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:45:17.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleRegistrationSystem.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\OOPs(This,sealed,is)\\VehicleRegistrationSystem.cs",
+              "RelativeDocumentMoniker": "..\\OOPs(This,sealed,is)\\VehicleRegistrationSystem.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\OOPs(This,sealed,is)\\VehicleRegistrationSystem.cs",
+              "RelativeToolTip": "..\\OOPs(This,sealed,is)\\VehicleRegistrationSystem.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:44:09.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CallingAllClass.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\OOPs(This,sealed,is)\\CallingAllClass.cs",
+              "RelativeDocumentMoniker": "..\\OOPs(This,sealed,is)\\CallingAllClass.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\OOPs(This,sealed,is)\\CallingAllClass.cs",
+              "RelativeToolTip": "..\\OOPs(This,sealed,is)\\CallingAllClass.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAADwv2YAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:40:30.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UniversityStudentManagement.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\OOPs(This,sealed,is)\\UniversityStudentManagement.cs",
+              "RelativeDocumentMoniker": "..\\OOPs(This,sealed,is)\\UniversityStudentManagement.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\OOPs(This,sealed,is)\\UniversityStudentManagement.cs",
+              "RelativeToolTip": "..\\OOPs(This,sealed,is)\\UniversityStudentManagement.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:34:13.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingCartSystem.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\OOPs(This,sealed,is)\\ShoppingCartSystem.cs",
+              "RelativeDocumentMoniker": "..\\OOPs(This,sealed,is)\\ShoppingCartSystem.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\OOPs(This,sealed,is)\\ShoppingCartSystem.cs",
+              "RelativeToolTip": "..\\OOPs(This,sealed,is)\\ShoppingCartSystem.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:30:55.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeManagementSystem.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\OOPs(This,sealed,is)\\EmployeeManagementSystem.cs",
+              "RelativeDocumentMoniker": "..\\OOPs(This,sealed,is)\\EmployeeManagementSystem.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\OOPs(This,sealed,is)\\EmployeeManagementSystem.cs",
+              "RelativeToolTip": "..\\OOPs(This,sealed,is)\\EmployeeManagementSystem.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:13:21.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryManagementSystem.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\OOPs(This,sealed,is)\\LibraryManagementSystem.cs",
+              "RelativeDocumentMoniker": "..\\OOPs(This,sealed,is)\\LibraryManagementSystem.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\OOPs(This,sealed,is)\\LibraryManagementSystem.cs",
+              "RelativeToolTip": "..\\OOPs(This,sealed,is)\\LibraryManagementSystem.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:06:38.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\OOPs(This,sealed,is)\\Program.cs",
+              "RelativeDocumentMoniker": "..\\OOPs(This,sealed,is)\\Program.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\OOPs(This,sealed,is)\\Program.cs",
+              "RelativeToolTip": "..\\OOPs(This,sealed,is)\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:05:52.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
