@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\github\\Oops_Level1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6734A4D0-3C2D-4226-B3CA-4D381E178618}|Oops_Level1.csproj|E:\\github\\Oops_Level1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734A4D0-3C2D-4226-B3CA-4D381E178618}|Oops_Level1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6734A4D0-3C2D-4226-B3CA-4D381E178618}|Oops_Level1.csproj|E:\\github\\Oops_Level1\\universitystudentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734A4D0-3C2D-4226-B3CA-4D381E178618}|Oops_Level1.csproj|solutionrelative:universitystudentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6734A4D0-3C2D-4226-B3CA-4D381E178618}|Oops_Level1.csproj|E:\\github\\Oops_Level1\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734A4D0-3C2D-4226-B3CA-4D381E178618}|Oops_Level1.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6734A4D0-3C2D-4226-B3CA-4D381E178618}|Oops_Level1.csproj|E:\\github\\Oops_Level1\\hospitalmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734A4D0-3C2D-4226-B3CA-4D381E178618}|Oops_Level1.csproj|solutionrelative:hospitalmanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6734A4D0-3C2D-4226-B3CA-4D381E178618}|Oops_Level1.csproj|E:\\github\\Oops_Level1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734A4D0-3C2D-4226-B3CA-4D381E178618}|Oops_Level1.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6734A4D0-3C2D-4226-B3CA-4D381E178618}|Oops_Level1.csproj|E:\\github\\Oops_Level1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734A4D0-3C2D-4226-B3CA-4D381E178618}|Oops_Level1.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6734A4D0-3C2D-4226-B3CA-4D381E178618}|Oops_Level1.csproj|E:\\github\\Oops_Level1\\vehicleregistrationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734A4D0-3C2D-4226-B3CA-4D381E178618}|Oops_Level1.csproj|solutionrelative:vehicleregistrationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6734A4D0-3C2D-4226-B3CA-4D381E178618}|Oops_Level1.csproj|E:\\github\\Oops_Level1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6734A4D0-3C2D-4226-B3CA-4D381E178618}|Oops_Level1.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UniversityStudentManagement.cs",
+              "DocumentMoniker": "E:\\github\\Oops_Level1\\UniversityStudentManagement.cs",
+              "RelativeDocumentMoniker": "UniversityStudentManagement.cs",
+              "ToolTip": "E:\\github\\Oops_Level1\\UniversityStudentManagement.cs",
+              "RelativeToolTip": "UniversityStudentManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:54:44.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HospitalManagementSystem.cs",
+              "DocumentMoniker": "E:\\github\\Oops_Level1\\HospitalManagementSystem.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem.cs",
+              "ToolTip": "E:\\github\\Oops_Level1\\HospitalManagementSystem.cs",
+              "RelativeToolTip": "HospitalManagementSystem.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:59:53.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehicleRegistrationSystem.cs",
+              "DocumentMoniker": "E:\\github\\Oops_Level1\\VehicleRegistrationSystem.cs",
+              "RelativeDocumentMoniker": "VehicleRegistrationSystem.cs",
+              "ToolTip": "E:\\github\\Oops_Level1\\VehicleRegistrationSystem.cs",
+              "RelativeToolTip": "VehicleRegistrationSystem.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:57:51.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\github\\Oops_Level1\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "E:\\github\\Oops_Level1\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:32:03.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\github\\Oops_Level1\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "E:\\github\\Oops_Level1\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:12:00.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\github\\Oops_Level1\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "E:\\github\\Oops_Level1\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:51:13.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\github\\Oops_Level1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\github\\Oops_Level1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:23:36.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "E:\\github\\Oops_Level1\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "E:\\github\\Oops_Level1\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:29:37.694Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 335,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

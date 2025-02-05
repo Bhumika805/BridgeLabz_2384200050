@@ -1,0 +1,7 @@
+E:\github\Oops_Level1\bin\Debug\Oops_Level1.exe.config
+E:\github\Oops_Level1\bin\Debug\Oops_Level1.exe
+E:\github\Oops_Level1\bin\Debug\Oops_Level1.pdb
+E:\github\Oops_Level1\obj\Debug\Oops_Level1.csproj.AssemblyReference.cache
+E:\github\Oops_Level1\obj\Debug\Oops_Level1.csproj.CoreCompileInputs.cache
+E:\github\Oops_Level1\obj\Debug\Oops_Level1.exe
+E:\github\Oops_Level1\obj\Debug\Oops_Level1.pdb
