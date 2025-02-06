@@ -20,5 +20,7 @@ Completed Task1 (OOPS_classes with Access Modifiers) in feature_02-02-2025 branc
 
 Completed Task1 (Oops_Level1 with static, this, readonly, isOperator) in feature_04-02-2025 branch.
 
+Completed Task1 (ObjectModeling -- Relationships in C#), Task2 (Class Diagram, Object Diagram, Sequence Diagram) in feature_06-02-2025 branch.
+
 
 
