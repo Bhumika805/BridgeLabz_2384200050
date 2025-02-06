@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\ObjectModeling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3706788-64C8-48E1-99A3-2888EC537621}|ObjectModeling.csproj|c:\\users\\lenovo\\source\\repos\\objectmodeling\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3706788-64C8-48E1-99A3-2888EC537621}|ObjectModeling.csproj|solutionrelative:faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3706788-64C8-48E1-99A3-2888EC537621}|ObjectModeling.csproj|c:\\users\\lenovo\\source\\repos\\objectmodeling\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3706788-64C8-48E1-99A3-2888EC537621}|ObjectModeling.csproj|solutionrelative:bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3706788-64C8-48E1-99A3-2888EC537621}|ObjectModeling.csproj|c:\\users\\lenovo\\source\\repos\\objectmodeling\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3706788-64C8-48E1-99A3-2888EC537621}|ObjectModeling.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3706788-64C8-48E1-99A3-2888EC537621}|ObjectModeling.csproj|c:\\users\\lenovo\\source\\repos\\objectmodeling\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3706788-64C8-48E1-99A3-2888EC537621}|ObjectModeling.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3706788-64C8-48E1-99A3-2888EC537621}|ObjectModeling.csproj|c:\\users\\lenovo\\source\\repos\\objectmodeling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3706788-64C8-48E1-99A3-2888EC537621}|ObjectModeling.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ObjectModeling\\Faculty.cs",
+              "RelativeDocumentMoniker": "Faculty.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ObjectModeling\\Faculty.cs",
+              "RelativeToolTip": "Faculty.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAAGcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T09:41:18.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ObjectModeling\\Course.cs",
+              "RelativeDocumentMoniker": "Course.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ObjectModeling\\Course.cs",
+              "RelativeToolTip": "Course.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAAKMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T09:28:21.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ObjectModeling\\Bank.cs",
+              "RelativeDocumentMoniker": "Bank.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ObjectModeling\\Bank.cs*",
+              "RelativeToolTip": "Bank.cs*",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowEMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T08:26:49.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ObjectModeling\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ObjectModeling\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:08:36.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ObjectModeling\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ObjectModeling\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T05:46:17.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 335,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\ObjectModeling\obj\Debug\ObjectModeling.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ObjectModeling\obj\Debug\ObjectModeling.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ObjectModeling\bin\Debug\ObjectModeling.exe.config
+C:\Users\Lenovo\source\repos\ObjectModeling\bin\Debug\ObjectModeling.exe
+C:\Users\Lenovo\source\repos\ObjectModeling\bin\Debug\ObjectModeling.pdb
+C:\Users\Lenovo\source\repos\ObjectModeling\obj\Debug\ObjectModeling.exe
+C:\Users\Lenovo\source\repos\ObjectModeling\obj\Debug\ObjectModeling.pdb
