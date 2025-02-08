@@ -1,0 +1,7 @@
+E:\github\Inheritance_Problrms\bin\Debug\Inheritance_Problrms.exe.config
+E:\github\Inheritance_Problrms\bin\Debug\Inheritance_Problrms.exe
+E:\github\Inheritance_Problrms\bin\Debug\Inheritance_Problrms.pdb
+E:\github\Inheritance_Problrms\obj\Debug\Inheritance_Problems.csproj.AssemblyReference.cache
+E:\github\Inheritance_Problrms\obj\Debug\Inheritance_Problems.csproj.CoreCompileInputs.cache
+E:\github\Inheritance_Problrms\obj\Debug\Inheritance_Problrms.exe
+E:\github\Inheritance_Problrms\obj\Debug\Inheritance_Problrms.pdb
