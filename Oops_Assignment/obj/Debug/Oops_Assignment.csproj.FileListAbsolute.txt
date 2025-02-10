@@ -1,0 +1,7 @@
+E:\github\Oops_Assignment\obj\Debug\Oops_Assignment.csproj.AssemblyReference.cache
+E:\github\Oops_Assignment\obj\Debug\Oops_Assignment.csproj.CoreCompileInputs.cache
+E:\github\Oops_Assignment\bin\Debug\Oops_Assignment.exe.config
+E:\github\Oops_Assignment\bin\Debug\Oops_Assignment.exe
+E:\github\Oops_Assignment\bin\Debug\Oops_Assignment.pdb
+E:\github\Oops_Assignment\obj\Debug\Oops_Assignment.exe
+E:\github\Oops_Assignment\obj\Debug\Oops_Assignment.pdb
