@@ -24,5 +24,7 @@ Completed Task1 (ObjectModeling -- Relationships in C#), Task2 (Class Diagram, O
 
 Completed Task1 (Inheritance_Problems) in feature_08-02-2025 branch.
 
+Completed Task1 (Encapsulation, Inheritance, Polymorphism, Interfaces) in feature_10-02-2025 branch.
+
 
 
