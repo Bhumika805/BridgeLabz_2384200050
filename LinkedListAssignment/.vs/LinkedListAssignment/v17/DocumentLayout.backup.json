@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91870\\source\\repos\\LinkedListAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC7DCE9-9C5D-4102-8B6F-CB1F37855762}|LinkedListAssignment.csproj|c:\\users\\91870\\source\\repos\\linkedlistassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC7DCE9-9C5D-4102-8B6F-CB1F37855762}|LinkedListAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC7DCE9-9C5D-4102-8B6F-CB1F37855762}|LinkedListAssignment.csproj|c:\\users\\91870\\source\\repos\\linkedlistassignment\\roundrobinschedulingalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC7DCE9-9C5D-4102-8B6F-CB1F37855762}|LinkedListAssignment.csproj|solutionrelative:roundrobinschedulingalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC7DCE9-9C5D-4102-8B6F-CB1F37855762}|LinkedListAssignment.csproj|c:\\users\\91870\\source\\repos\\linkedlistassignment\\librarymanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC7DCE9-9C5D-4102-8B6F-CB1F37855762}|LinkedListAssignment.csproj|solutionrelative:librarymanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC7DCE9-9C5D-4102-8B6F-CB1F37855762}|LinkedListAssignment.csproj|c:\\users\\91870\\source\\repos\\linkedlistassignment\\inventorymanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC7DCE9-9C5D-4102-8B6F-CB1F37855762}|LinkedListAssignment.csproj|solutionrelative:inventorymanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC7DCE9-9C5D-4102-8B6F-CB1F37855762}|LinkedListAssignment.csproj|c:\\users\\91870\\source\\repos\\linkedlistassignment\\taskscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC7DCE9-9C5D-4102-8B6F-CB1F37855762}|LinkedListAssignment.csproj|solutionrelative:taskscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC7DCE9-9C5D-4102-8B6F-CB1F37855762}|LinkedListAssignment.csproj|c:\\users\\91870\\source\\repos\\linkedlistassignment\\movielist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC7DCE9-9C5D-4102-8B6F-CB1F37855762}|LinkedListAssignment.csproj|solutionrelative:movielist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC7DCE9-9C5D-4102-8B6F-CB1F37855762}|LinkedListAssignment.csproj|c:\\users\\91870\\source\\repos\\linkedlistassignment\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC7DCE9-9C5D-4102-8B6F-CB1F37855762}|LinkedListAssignment.csproj|solutionrelative:studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC7DCE9-9C5D-4102-8B6F-CB1F37855762}|LinkedListAssignment.csproj|c:\\users\\91870\\source\\repos\\linkedlistassignment\\onlineticketreservationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC7DCE9-9C5D-4102-8B6F-CB1F37855762}|LinkedListAssignment.csproj|solutionrelative:onlineticketreservationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC7DCE9-9C5D-4102-8B6F-CB1F37855762}|LinkedListAssignment.csproj|c:\\users\\91870\\source\\repos\\linkedlistassignment\\undo-redofunctionalityfortexteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC7DCE9-9C5D-4102-8B6F-CB1F37855762}|LinkedListAssignment.csproj|solutionrelative:undo-redofunctionalityfortexteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC7DCE9-9C5D-4102-8B6F-CB1F37855762}|LinkedListAssignment.csproj|c:\\users\\91870\\source\\repos\\linkedlistassignment\\socialmediafriendconnections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC7DCE9-9C5D-4102-8B6F-CB1F37855762}|LinkedListAssignment.csproj|solutionrelative:socialmediafriendconnections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OnlineTicketReservationSystem.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\LinkedListAssignment\\OnlineTicketReservationSystem.cs",
+              "RelativeDocumentMoniker": "OnlineTicketReservationSystem.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\LinkedListAssignment\\OnlineTicketReservationSystem.cs",
+              "RelativeToolTip": "OnlineTicketReservationSystem.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAuwIwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:14:23.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Undo-RedoFunctionalityforTextEditor.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\LinkedListAssignment\\Undo-RedoFunctionalityforTextEditor.cs",
+              "RelativeDocumentMoniker": "Undo-RedoFunctionalityforTextEditor.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\LinkedListAssignment\\Undo-RedoFunctionalityforTextEditor.cs",
+              "RelativeToolTip": "Undo-RedoFunctionalityforTextEditor.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAqwF8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:10:45.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SocialMediaFriendConnections.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\LinkedListAssignment\\SocialMediaFriendConnections.cs",
+              "RelativeDocumentMoniker": "SocialMediaFriendConnections.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\LinkedListAssignment\\SocialMediaFriendConnections.cs",
+              "RelativeToolTip": "SocialMediaFriendConnections.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAuwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:06:50.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoundRobinSchedulingAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\LinkedListAssignment\\RoundRobinSchedulingAlgorithm.cs",
+              "RelativeDocumentMoniker": "RoundRobinSchedulingAlgorithm.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\LinkedListAssignment\\RoundRobinSchedulingAlgorithm.cs",
+              "RelativeToolTip": "RoundRobinSchedulingAlgorithm.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAkwGgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T15:03:55.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryManagementSystem.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\LinkedListAssignment\\LibraryManagementSystem.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\LinkedListAssignment\\LibraryManagementSystem.cs",
+              "RelativeToolTip": "LibraryManagementSystem.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAkwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:58:46.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryManagementSystem.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\LinkedListAssignment\\InventoryManagementSystem.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\LinkedListAssignment\\InventoryManagementSystem.cs",
+              "RelativeToolTip": "InventoryManagementSystem.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAkwJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:22:13.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskScheduler.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\LinkedListAssignment\\TaskScheduler.cs",
+              "RelativeDocumentMoniker": "TaskScheduler.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\LinkedListAssignment\\TaskScheduler.cs",
+              "RelativeToolTip": "TaskScheduler.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAowJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:19:41.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieList.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\LinkedListAssignment\\MovieList.cs",
+              "RelativeDocumentMoniker": "MovieList.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\LinkedListAssignment\\MovieList.cs",
+              "RelativeToolTip": "MovieList.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:15:21.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentList.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\LinkedListAssignment\\StudentList.cs",
+              "RelativeDocumentMoniker": "StudentList.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\LinkedListAssignment\\StudentList.cs",
+              "RelativeToolTip": "StudentList.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAkwKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:12:51.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\LinkedListAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\LinkedListAssignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAowMEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:07:06.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
