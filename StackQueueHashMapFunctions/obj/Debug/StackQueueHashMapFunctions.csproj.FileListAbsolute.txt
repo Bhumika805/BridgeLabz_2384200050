@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\StackQueueHashMapFunctions\bin\Debug\StackQueueHashMapFunctions.exe.config
+C:\Users\Lenovo\source\repos\StackQueueHashMapFunctions\bin\Debug\StackQueueHashMapFunctions.exe
+C:\Users\Lenovo\source\repos\StackQueueHashMapFunctions\bin\Debug\StackQueueHashMapFunctions.pdb
+C:\Users\Lenovo\source\repos\StackQueueHashMapFunctions\obj\Debug\StackQueueHashMapFunctions.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\StackQueueHashMapFunctions\obj\Debug\StackQueueHashMapFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\StackQueueHashMapFunctions\obj\Debug\StackQueueHashMapFunctions.exe
+C:\Users\Lenovo\source\repos\StackQueueHashMapFunctions\obj\Debug\StackQueueHashMapFunctions.pdb
