@@ -30,4 +30,5 @@ Completed Task1 (Linked List Assignment) in feature_11-02-2025 branch.
 
 Completed Task1 (Stack, Queue and Hash Maps Functions) in feature_13-02-2025 branch.
 
+ Completed Task1 (Sorting) in feature_14-02-2025 branch.
 
