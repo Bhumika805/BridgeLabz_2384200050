@@ -1,0 +1,7 @@
+E:\github\SortingAlgorithm\bin\Debug\SortingAlgorithm.exe.config
+E:\github\SortingAlgorithm\bin\Debug\SortingAlgorithm.exe
+E:\github\SortingAlgorithm\bin\Debug\SortingAlgorithm.pdb
+E:\github\SortingAlgorithm\obj\Debug\SortingAlgorithm.csproj.AssemblyReference.cache
+E:\github\SortingAlgorithm\obj\Debug\SortingAlgorithm.csproj.CoreCompileInputs.cache
+E:\github\SortingAlgorithm\obj\Debug\SortingAlgorithm.exe
+E:\github\SortingAlgorithm\obj\Debug\SortingAlgorithm.pdb
