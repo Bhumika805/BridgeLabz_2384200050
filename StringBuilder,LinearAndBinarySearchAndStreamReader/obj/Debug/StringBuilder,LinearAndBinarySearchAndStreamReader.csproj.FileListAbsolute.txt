@@ -1,0 +1,7 @@
+C:\Users\91870\source\repos\StringBuilder,LinearAndBinarySearchAndStreamReader\bin\Debug\StringBuilder,LinearAndBinarySearchAndStreamReader.exe.config
+C:\Users\91870\source\repos\StringBuilder,LinearAndBinarySearchAndStreamReader\bin\Debug\StringBuilder,LinearAndBinarySearchAndStreamReader.exe
+C:\Users\91870\source\repos\StringBuilder,LinearAndBinarySearchAndStreamReader\bin\Debug\StringBuilder,LinearAndBinarySearchAndStreamReader.pdb
+C:\Users\91870\source\repos\StringBuilder,LinearAndBinarySearchAndStreamReader\obj\Debug\StringBuilder,LinearAndBinarySearchAndStreamReader.csproj.AssemblyReference.cache
+C:\Users\91870\source\repos\StringBuilder,LinearAndBinarySearchAndStreamReader\obj\Debug\StringBuilder,LinearAndBinarySearchAndStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\91870\source\repos\StringBuilder,LinearAndBinarySearchAndStreamReader\obj\Debug\StringBuilder,LinearAndBinarySearchAndStreamReader.exe
+C:\Users\91870\source\repos\StringBuilder,LinearAndBinarySearchAndStreamReader\obj\Debug\StringBuilder,LinearAndBinarySearchAndStreamReader.pdb
