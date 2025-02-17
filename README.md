@@ -34,3 +34,5 @@ Completed Task1 (Sorting) in feature_14-02-2025 branch.
 
 Completed Task1 (String Builder, Linear Search and Binary Search) in feature_15-02-2025 branch.
 
+Completed Task1 (Algorithm's Runtime Analysis & Big-O Notation) in feature_17-02-2025 branch.
+
