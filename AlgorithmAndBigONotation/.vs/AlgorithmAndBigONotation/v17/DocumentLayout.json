@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\github\\AlgorithmAndBigONotation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EA383B-C114-4907-8C8D-96C8F4263D1D}|AlgorithmAndBigONotation.csproj|e:\\github\\algorithmandbigonotation\\sortingcomparison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EA383B-C114-4907-8C8D-96C8F4263D1D}|AlgorithmAndBigONotation.csproj|solutionrelative:sortingcomparison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EA383B-C114-4907-8C8D-96C8F4263D1D}|AlgorithmAndBigONotation.csproj|e:\\github\\algorithmandbigonotation\\searchcomparison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EA383B-C114-4907-8C8D-96C8F4263D1D}|AlgorithmAndBigONotation.csproj|solutionrelative:searchcomparison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EA383B-C114-4907-8C8D-96C8F4263D1D}|AlgorithmAndBigONotation.csproj|e:\\github\\algorithmandbigonotation\\stringconcatenationcomparison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EA383B-C114-4907-8C8D-96C8F4263D1D}|AlgorithmAndBigONotation.csproj|solutionrelative:stringconcatenationcomparison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EA383B-C114-4907-8C8D-96C8F4263D1D}|AlgorithmAndBigONotation.csproj|e:\\github\\algorithmandbigonotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EA383B-C114-4907-8C8D-96C8F4263D1D}|AlgorithmAndBigONotation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EA383B-C114-4907-8C8D-96C8F4263D1D}|AlgorithmAndBigONotation.csproj|e:\\github\\algorithmandbigonotation\\fibonacciexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EA383B-C114-4907-8C8D-96C8F4263D1D}|AlgorithmAndBigONotation.csproj|solutionrelative:fibonacciexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0EA383B-C114-4907-8C8D-96C8F4263D1D}|AlgorithmAndBigONotation.csproj|e:\\github\\algorithmandbigonotation\\filereadingcomparison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0EA383B-C114-4907-8C8D-96C8F4263D1D}|AlgorithmAndBigONotation.csproj|solutionrelative:filereadingcomparison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FibonacciExample.cs",
+              "DocumentMoniker": "E:\\github\\AlgorithmAndBigONotation\\FibonacciExample.cs",
+              "RelativeDocumentMoniker": "FibonacciExample.cs",
+              "ToolTip": "E:\\github\\AlgorithmAndBigONotation\\FibonacciExample.cs",
+              "RelativeToolTip": "FibonacciExample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:48:43.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileReadingComparison.cs",
+              "DocumentMoniker": "E:\\github\\AlgorithmAndBigONotation\\FileReadingComparison.cs",
+              "RelativeDocumentMoniker": "FileReadingComparison.cs",
+              "ToolTip": "E:\\github\\AlgorithmAndBigONotation\\FileReadingComparison.cs",
+              "RelativeToolTip": "FileReadingComparison.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:45:09.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringConcatenationComparison.cs",
+              "DocumentMoniker": "E:\\github\\AlgorithmAndBigONotation\\StringConcatenationComparison.cs",
+              "RelativeDocumentMoniker": "StringConcatenationComparison.cs",
+              "ToolTip": "E:\\github\\AlgorithmAndBigONotation\\StringConcatenationComparison.cs",
+              "RelativeToolTip": "StringConcatenationComparison.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:41:19.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SortingComparison.cs",
+              "DocumentMoniker": "E:\\github\\AlgorithmAndBigONotation\\SortingComparison.cs",
+              "RelativeDocumentMoniker": "SortingComparison.cs",
+              "ToolTip": "E:\\github\\AlgorithmAndBigONotation\\SortingComparison.cs*",
+              "RelativeToolTip": "SortingComparison.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:37:35.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchComparison.cs",
+              "DocumentMoniker": "E:\\github\\AlgorithmAndBigONotation\\SearchComparison.cs",
+              "RelativeDocumentMoniker": "SearchComparison.cs",
+              "ToolTip": "E:\\github\\AlgorithmAndBigONotation\\SearchComparison.cs",
+              "RelativeToolTip": "SearchComparison.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:45:42.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\github\\AlgorithmAndBigONotation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\github\\AlgorithmAndBigONotation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:43:56.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 335,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

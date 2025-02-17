@@ -1,0 +1,7 @@
+E:\github\AlgorithmAndBigONotation\obj\Debug\AlgorithmAndBigONotation.csproj.AssemblyReference.cache
+E:\github\AlgorithmAndBigONotation\obj\Debug\AlgorithmAndBigONotation.csproj.CoreCompileInputs.cache
+E:\github\AlgorithmAndBigONotation\bin\Debug\AlgorithmAndBigONotation.exe.config
+E:\github\AlgorithmAndBigONotation\bin\Debug\AlgorithmAndBigONotation.exe
+E:\github\AlgorithmAndBigONotation\bin\Debug\AlgorithmAndBigONotation.pdb
+E:\github\AlgorithmAndBigONotation\obj\Debug\AlgorithmAndBigONotation.exe
+E:\github\AlgorithmAndBigONotation\obj\Debug\AlgorithmAndBigONotation.pdb
