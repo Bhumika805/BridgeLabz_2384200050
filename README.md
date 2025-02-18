@@ -36,3 +36,5 @@ Completed Task1 (String Builder, Linear Search and Binary Search) in feature_15-
 
 Completed Task1 (Algorithm's Runtime Analysis & Big-O Notation) in feature_17-02-2025 branch.
 
+Completed Task1 (Generics Concepts) in feature_18-02-2025 branch.
+
