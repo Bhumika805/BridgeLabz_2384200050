@@ -1,0 +1,7 @@
+E:\github\GenericsConcept\bin\Debug\GenericsConcept.exe.config
+E:\github\GenericsConcept\bin\Debug\GenericsConcept.exe
+E:\github\GenericsConcept\bin\Debug\GenericsConcept.pdb
+E:\github\GenericsConcept\obj\Debug\GenericsConcept.csproj.AssemblyReference.cache
+E:\github\GenericsConcept\obj\Debug\GenericsConcept.csproj.CoreCompileInputs.cache
+E:\github\GenericsConcept\obj\Debug\GenericsConcept.exe
+E:\github\GenericsConcept\obj\Debug\GenericsConcept.pdb
