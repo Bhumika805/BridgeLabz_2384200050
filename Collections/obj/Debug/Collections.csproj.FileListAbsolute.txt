@@ -1,0 +1,7 @@
+E:\github\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+E:\github\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+E:\github\Collections\bin\Debug\Collections.exe.config
+E:\github\Collections\bin\Debug\Collections.exe
+E:\github\Collections\bin\Debug\Collections.pdb
+E:\github\Collections\obj\Debug\Collections.exe
+E:\github\Collections\obj\Debug\Collections.pdb
