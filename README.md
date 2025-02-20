@@ -40,3 +40,5 @@ Completed Task1 (Generics Concepts) in feature_18-02-2025 branch.
 
 Completed Task1 (Collections) in feature_19-02-2025 branch.
 
+Completed Task1 (Streams) in feature_20-02-2025 branch.
+
