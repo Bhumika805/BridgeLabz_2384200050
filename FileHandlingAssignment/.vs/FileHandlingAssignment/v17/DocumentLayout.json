@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\github\\FileHandlingAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BF2118-7C36-4037-AA69-8DE906386E11}|FileHandlingAssignment.csproj|e:\\github\\filehandlingassignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BF2118-7C36-4037-AA69-8DE906386E11}|FileHandlingAssignment.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BF2118-7C36-4037-AA69-8DE906386E11}|FileHandlingAssignment.csproj|e:\\github\\filehandlingassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BF2118-7C36-4037-AA69-8DE906386E11}|FileHandlingAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BF2118-7C36-4037-AA69-8DE906386E11}|FileHandlingAssignment.csproj|e:\\github\\filehandlingassignment\\largefilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BF2118-7C36-4037-AA69-8DE906386E11}|FileHandlingAssignment.csproj|solutionrelative:largefilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BF2118-7C36-4037-AA69-8DE906386E11}|FileHandlingAssignment.csproj|e:\\github\\filehandlingassignment\\copyfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BF2118-7C36-4037-AA69-8DE906386E11}|FileHandlingAssignment.csproj|solutionrelative:copyfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BF2118-7C36-4037-AA69-8DE906386E11}|FileHandlingAssignment.csproj|e:\\github\\filehandlingassignment\\fileconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BF2118-7C36-4037-AA69-8DE906386E11}|FileHandlingAssignment.csproj|solutionrelative:fileconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BF2118-7C36-4037-AA69-8DE906386E11}|FileHandlingAssignment.csproj|e:\\github\\filehandlingassignment\\imageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BF2118-7C36-4037-AA69-8DE906386E11}|FileHandlingAssignment.csproj|solutionrelative:imageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BF2118-7C36-4037-AA69-8DE906386E11}|FileHandlingAssignment.csproj|e:\\github\\filehandlingassignment\\pipestreamexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BF2118-7C36-4037-AA69-8DE906386E11}|FileHandlingAssignment.csproj|solutionrelative:pipestreamexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BF2118-7C36-4037-AA69-8DE906386E11}|FileHandlingAssignment.csproj|e:\\github\\filehandlingassignment\\userinputinfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BF2118-7C36-4037-AA69-8DE906386E11}|FileHandlingAssignment.csproj|solutionrelative:userinputinfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BF2118-7C36-4037-AA69-8DE906386E11}|FileHandlingAssignment.csproj|e:\\github\\filehandlingassignment\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BF2118-7C36-4037-AA69-8DE906386E11}|FileHandlingAssignment.csproj|solutionrelative:studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BF2118-7C36-4037-AA69-8DE906386E11}|FileHandlingAssignment.csproj|e:\\github\\filehandlingassignment\\wordcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BF2118-7C36-4037-AA69-8DE906386E11}|FileHandlingAssignment.csproj|solutionrelative:wordcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WordCounter.cs",
+              "DocumentMoniker": "E:\\github\\FileHandlingAssignment\\WordCounter.cs",
+              "RelativeDocumentMoniker": "WordCounter.cs",
+              "ToolTip": "E:\\github\\FileHandlingAssignment\\WordCounter.cs",
+              "RelativeToolTip": "WordCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:55:08.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LargeFileReader.cs",
+              "DocumentMoniker": "E:\\github\\FileHandlingAssignment\\LargeFileReader.cs",
+              "RelativeDocumentMoniker": "LargeFileReader.cs",
+              "ToolTip": "E:\\github\\FileHandlingAssignment\\LargeFileReader.cs",
+              "RelativeToolTip": "LargeFileReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:51:03.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PipeStreamExample.cs",
+              "DocumentMoniker": "E:\\github\\FileHandlingAssignment\\PipeStreamExample.cs",
+              "RelativeDocumentMoniker": "PipeStreamExample.cs",
+              "ToolTip": "E:\\github\\FileHandlingAssignment\\PipeStreamExample.cs",
+              "RelativeToolTip": "PipeStreamExample.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAuwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:49:33.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentData.cs",
+              "DocumentMoniker": "E:\\github\\FileHandlingAssignment\\StudentData.cs",
+              "RelativeDocumentMoniker": "StudentData.cs",
+              "ToolTip": "E:\\github\\FileHandlingAssignment\\StudentData.cs",
+              "RelativeToolTip": "StudentData.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwEMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:47:20.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileConverter.cs",
+              "DocumentMoniker": "E:\\github\\FileHandlingAssignment\\FileConverter.cs",
+              "RelativeDocumentMoniker": "FileConverter.cs",
+              "ToolTip": "E:\\github\\FileHandlingAssignment\\FileConverter.cs",
+              "RelativeToolTip": "FileConverter.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwDYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:46:14.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImageConverter.cs",
+              "DocumentMoniker": "E:\\github\\FileHandlingAssignment\\ImageConverter.cs",
+              "RelativeDocumentMoniker": "ImageConverter.cs",
+              "ToolTip": "E:\\github\\FileHandlingAssignment\\ImageConverter.cs",
+              "RelativeToolTip": "ImageConverter.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwEkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:43:37.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserInputInFile.cs",
+              "DocumentMoniker": "E:\\github\\FileHandlingAssignment\\UserInputInFile.cs",
+              "RelativeDocumentMoniker": "UserInputInFile.cs",
+              "ToolTip": "E:\\github\\FileHandlingAssignment\\UserInputInFile.cs",
+              "RelativeToolTip": "UserInputInFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:35:03.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\github\\FileHandlingAssignment\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "E:\\github\\FileHandlingAssignment\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAIwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:36:19.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CopyFiles.cs",
+              "DocumentMoniker": "E:\\github\\FileHandlingAssignment\\CopyFiles.cs",
+              "RelativeDocumentMoniker": "CopyFiles.cs",
+              "ToolTip": "E:\\github\\FileHandlingAssignment\\CopyFiles.cs",
+              "RelativeToolTip": "CopyFiles.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwDEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:34:09.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\github\\FileHandlingAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\github\\FileHandlingAssignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:33:27.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 335,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
