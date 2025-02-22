@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|c:\\users\\91870\\source\\repos\\regexassignment\\repeatingwordfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|solutionrelative:repeatingwordfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|c:\\users\\91870\\source\\repos\\regexassignment\\currencyextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|solutionrelative:currencyextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|c:\\users\\91870\\source\\repos\\regexassignment\\programminglanguageextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|solutionrelative:programminglanguageextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|c:\\users\\91870\\source\\repos\\regexassignment\\creditcardvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|solutionrelative:creditcardvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|c:\\users\\91870\\source\\repos\\regexassignment\\ipaddressvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|solutionrelative:ipaddressvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|c:\\users\\91870\\source\\repos\\regexassignment\\badwordcensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|solutionrelative:badwordcensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|c:\\users\\91870\\source\\repos\\regexassignment\\spacereducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|solutionrelative:spacereducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|c:\\users\\91870\\source\\repos\\regexassignment\\linkextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|solutionrelative:linkextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|c:\\users\\91870\\source\\repos\\regexassignment\\dateextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|solutionrelative:dateextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|c:\\users\\91870\\source\\repos\\regexassignment\\capitalizedwordextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|solutionrelative:capitalizedwordextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|c:\\users\\91870\\source\\repos\\regexassignment\\emailextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|solutionrelative:emailextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|c:\\users\\91870\\source\\repos\\regexassignment\\hexcolorvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|solutionrelative:hexcolorvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|c:\\users\\91870\\source\\repos\\regexassignment\\licenseplatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|solutionrelative:licenseplatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|c:\\users\\91870\\source\\repos\\regexassignment\\usernamevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|solutionrelative:usernamevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|c:\\users\\91870\\source\\repos\\regexassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D118A84-9330-4963-83B4-87F7BF749A8C}|RegexAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepeatingWordFinder.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\RepeatingWordFinder.cs",
+              "RelativeDocumentMoniker": "RepeatingWordFinder.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\RepeatingWordFinder.cs",
+              "RelativeToolTip": "RepeatingWordFinder.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:31:30.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrencyExtractor.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\CurrencyExtractor.cs",
+              "RelativeDocumentMoniker": "CurrencyExtractor.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\CurrencyExtractor.cs",
+              "RelativeToolTip": "CurrencyExtractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:28:35.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgrammingLanguageExtractor.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\ProgrammingLanguageExtractor.cs",
+              "RelativeDocumentMoniker": "ProgrammingLanguageExtractor.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\ProgrammingLanguageExtractor.cs",
+              "RelativeToolTip": "ProgrammingLanguageExtractor.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:27:15.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreditCardValidator.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\CreditCardValidator.cs",
+              "RelativeDocumentMoniker": "CreditCardValidator.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\CreditCardValidator.cs",
+              "RelativeToolTip": "CreditCardValidator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:24:39.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPAddressValidator.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\IPAddressValidator.cs",
+              "RelativeDocumentMoniker": "IPAddressValidator.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\IPAddressValidator.cs",
+              "RelativeToolTip": "IPAddressValidator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:23:37.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BadWordCensor.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\BadWordCensor.cs",
+              "RelativeDocumentMoniker": "BadWordCensor.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\BadWordCensor.cs",
+              "RelativeToolTip": "BadWordCensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:20:25.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpaceReducer.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\SpaceReducer.cs",
+              "RelativeDocumentMoniker": "SpaceReducer.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\SpaceReducer.cs",
+              "RelativeToolTip": "SpaceReducer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:19:55.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LinkExtractor.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\LinkExtractor.cs",
+              "RelativeDocumentMoniker": "LinkExtractor.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\LinkExtractor.cs",
+              "RelativeToolTip": "LinkExtractor.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:19:14.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DateExtractor.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\DateExtractor.cs",
+              "RelativeDocumentMoniker": "DateExtractor.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\DateExtractor.cs",
+              "RelativeToolTip": "DateExtractor.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:18:10.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CapitalizedWordExtractor.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\CapitalizedWordExtractor.cs",
+              "RelativeDocumentMoniker": "CapitalizedWordExtractor.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\CapitalizedWordExtractor.cs",
+              "RelativeToolTip": "CapitalizedWordExtractor.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:17:07.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmailExtractor.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\EmailExtractor.cs",
+              "RelativeDocumentMoniker": "EmailExtractor.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\EmailExtractor.cs",
+              "RelativeToolTip": "EmailExtractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:16:21.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HexColorValidator.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\HexColorValidator.cs",
+              "RelativeDocumentMoniker": "HexColorValidator.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\HexColorValidator.cs",
+              "RelativeToolTip": "HexColorValidator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:14:27.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LicensePlateValidator.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\LicensePlateValidator.cs",
+              "RelativeDocumentMoniker": "LicensePlateValidator.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\LicensePlateValidator.cs",
+              "RelativeToolTip": "LicensePlateValidator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:13:28.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsernameValidator.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\UsernameValidator.cs",
+              "RelativeDocumentMoniker": "UsernameValidator.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\UsernameValidator.cs",
+              "RelativeToolTip": "UsernameValidator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:12:30.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\RegexAssignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:12:08.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
