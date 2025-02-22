@@ -44,3 +44,4 @@ Completed Task1 (Streams) in feature_20-02-2025 branch.
 
 Completed Task1 (Exceptional Handling File) in feature_21-02-2025 branch.
 
+Completed Task1, Task2 (Regular Exception Asignment and NUnit / MSTest) in feature_22-02-2025 branch.
