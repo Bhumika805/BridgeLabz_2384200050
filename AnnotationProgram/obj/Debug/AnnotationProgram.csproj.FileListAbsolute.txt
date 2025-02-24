@@ -1,0 +1,2 @@
+E:\github\AnnotationProgram\obj\Debug\AnnotationProgram.csproj.AssemblyReference.cache
+E:\github\AnnotationProgram\obj\Debug\AnnotationProgram.csproj.CoreCompileInputs.cache
