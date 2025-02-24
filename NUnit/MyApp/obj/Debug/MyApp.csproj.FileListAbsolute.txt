@@ -1,0 +1,7 @@
+E:\github\MyApp\bin\Debug\MyApp.exe.config
+E:\github\MyApp\bin\Debug\MyApp.exe
+E:\github\MyApp\bin\Debug\MyApp.pdb
+E:\github\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
+E:\github\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+E:\github\MyApp\obj\Debug\MyApp.exe
+E:\github\MyApp\obj\Debug\MyApp.pdb
