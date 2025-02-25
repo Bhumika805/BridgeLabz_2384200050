@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\github\\CSVFile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E08837-323A-42ED-9123-DA492761C269}|CSVFile.csproj|e:\\github\\csvfile\\qualifyingstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E08837-323A-42ED-9123-DA492761C269}|CSVFile.csproj|solutionrelative:qualifyingstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E08837-323A-42ED-9123-DA492761C269}|CSVFile.csproj|e:\\github\\csvfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E08837-323A-42ED-9123-DA492761C269}|CSVFile.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E08837-323A-42ED-9123-DA492761C269}|CSVFile.csproj|e:\\github\\csvfile\\readfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E08837-323A-42ED-9123-DA492761C269}|CSVFile.csproj|solutionrelative:readfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E08837-323A-42ED-9123-DA492761C269}|CSVFile.csproj|e:\\github\\csvfile\\readandcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E08837-323A-42ED-9123-DA492761C269}|CSVFile.csproj|solutionrelative:readandcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E08837-323A-42ED-9123-DA492761C269}|CSVFile.csproj|e:\\github\\csvfile\\writefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E08837-323A-42ED-9123-DA492761C269}|CSVFile.csproj|solutionrelative:writefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QualifyingStudents.cs",
+              "DocumentMoniker": "E:\\github\\CSVFile\\QualifyingStudents.cs",
+              "RelativeDocumentMoniker": "QualifyingStudents.cs",
+              "ToolTip": "E:\\github\\CSVFile\\QualifyingStudents.cs",
+              "RelativeToolTip": "QualifyingStudents.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:35:14.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadandCount.cs",
+              "DocumentMoniker": "E:\\github\\CSVFile\\ReadandCount.cs",
+              "RelativeDocumentMoniker": "ReadandCount.cs",
+              "ToolTip": "E:\\github\\CSVFile\\ReadandCount.cs",
+              "RelativeToolTip": "ReadandCount.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:27:55.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WriteFile.cs",
+              "DocumentMoniker": "E:\\github\\CSVFile\\WriteFile.cs",
+              "RelativeDocumentMoniker": "WriteFile.cs",
+              "ToolTip": "E:\\github\\CSVFile\\WriteFile.cs",
+              "RelativeToolTip": "WriteFile.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA3wCQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:56:04.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReadFile.cs",
+              "DocumentMoniker": "E:\\github\\CSVFile\\ReadFile.cs",
+              "RelativeDocumentMoniker": "ReadFile.cs",
+              "ToolTip": "E:\\github\\CSVFile\\ReadFile.cs",
+              "RelativeToolTip": "ReadFile.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:18:30.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\github\\CSVFile\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\github\\CSVFile\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:08:58.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 335,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
