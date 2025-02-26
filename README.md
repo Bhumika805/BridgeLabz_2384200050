@@ -50,3 +50,5 @@ Completed Task1, Task2 (Reflection, annotation) in  feature_24-02-2025 branch.
 
 Completed Task1 (CSV File) in feature_25-02-2025 branch.
  
+Completed Task1 (JSON Assignment) in feature_26-02-2025 branch.
+
