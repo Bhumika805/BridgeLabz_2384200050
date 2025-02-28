@@ -52,3 +52,5 @@ This is Readme File.
  
 26. Completed Task1 (JSON Assignment) in feature_26-02-2025 branch.
 
+27. Completed Task1 (User Registration API) in feature_28-02-2025 branch.
+
