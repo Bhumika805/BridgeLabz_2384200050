@@ -52,5 +52,9 @@ This is Readme File.
  
 26. Completed Task1 (JSON Assignment) in feature_26-02-2025 branch.
 
+27. Completed Task1 (WebAPI UserRegistration) in feature_28-02-2025 branch.
+
+28. Completed Task1 (ORM Entity Framework) in feature_02-03-2025 branch.
+
 27. Completed Task1 (User Registration API) in feature_28-02-2025 branch.
 
