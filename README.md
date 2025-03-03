@@ -54,7 +54,4 @@ This is Readme File.
 
 27. Completed Task1 (WebAPI UserRegistration) in feature_28-02-2025 branch.
 
-28. Completed Task1 (ORM Entity Framework) in feature_02-03-2025 branch.
-
-27. Completed Task1 (User Registration API) in feature_28-02-2025 branch.
-
+28. Completed Task1 (ORM Entity Framework) in feature_01-03-2025 branch.
