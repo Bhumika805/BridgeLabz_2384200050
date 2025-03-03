@@ -1,0 +1,14 @@
+E:\github\WebAPI3\ModelLayer\bin\Debug\net6.0\ModelLayer.deps.json
+E:\github\WebAPI3\ModelLayer\bin\Debug\net6.0\ModelLayer.runtimeconfig.json
+E:\github\WebAPI3\ModelLayer\bin\Debug\net6.0\ModelLayer.dll
+E:\github\WebAPI3\ModelLayer\bin\Debug\net6.0\ModelLayer.pdb
+E:\github\WebAPI3\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.AssemblyReference.cache
+E:\github\WebAPI3\ModelLayer\obj\Debug\net6.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\WebAPI3\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfoInputs.cache
+E:\github\WebAPI3\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfo.cs
+E:\github\WebAPI3\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.CoreCompileInputs.cache
+E:\github\WebAPI3\ModelLayer\obj\Debug\net6.0\ModelLayer.dll
+E:\github\WebAPI3\ModelLayer\obj\Debug\net6.0\refint\ModelLayer.dll
+E:\github\WebAPI3\ModelLayer\obj\Debug\net6.0\ModelLayer.pdb
+E:\github\WebAPI3\ModelLayer\obj\Debug\net6.0\ModelLayer.genruntimeconfig.cache
+E:\github\WebAPI3\ModelLayer\obj\Debug\net6.0\ref\ModelLayer.dll

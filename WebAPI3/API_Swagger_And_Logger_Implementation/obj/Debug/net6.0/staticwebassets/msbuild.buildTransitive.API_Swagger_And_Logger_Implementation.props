@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\API_Swagger_And_Logger_Implementation.props" />
+</Project>
