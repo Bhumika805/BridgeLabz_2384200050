@@ -58,3 +58,5 @@ This is Readme File.
 
 29. Completed Task1 (API Swagger and Logger Implementation) in feature_03-03-2025 branch.
 
+30. Completed Task1 (Greeting App UC1, UC2, UC3) in feature_04-03-2025 branch.
+
