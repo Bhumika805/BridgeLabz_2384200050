@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\github\\ReviewProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25AE32C3-398D-44E8-A7A2-AC4AA54A79E4}|RepositoryLayer\\RepositoryLayer.csproj|e:\\github\\reviewproject\\repositorylayer\\interface\\iregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AE32C3-398D-44E8-A7A2-AC4AA54A79E4}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\interface\\iregistrationrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BDB5C6-B58A-4424-BCD3-B142BB9F06F9}|BusinessLayer\\BusinessLayer.csproj|e:\\github\\reviewproject\\businesslayer\\service\\registrationapibl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BDB5C6-B58A-4424-BCD3-B142BB9F06F9}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\service\\registrationapibl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AE32C3-398D-44E8-A7A2-AC4AA54A79E4}|RepositoryLayer\\RepositoryLayer.csproj|e:\\github\\reviewproject\\repositorylayer\\interface\\iemployeerl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AE32C3-398D-44E8-A7A2-AC4AA54A79E4}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\interface\\iemployeerl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AE32C3-398D-44E8-A7A2-AC4AA54A79E4}|RepositoryLayer\\RepositoryLayer.csproj|e:\\github\\reviewproject\\repositorylayer\\service\\employeerl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AE32C3-398D-44E8-A7A2-AC4AA54A79E4}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\service\\employeerl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BDB5C6-B58A-4424-BCD3-B142BB9F06F9}|BusinessLayer\\BusinessLayer.csproj|e:\\github\\reviewproject\\businesslayer\\interface\\iregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BDB5C6-B58A-4424-BCD3-B142BB9F06F9}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\interface\\iregistrationbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BDB5C6-B58A-4424-BCD3-B142BB9F06F9}|BusinessLayer\\BusinessLayer.csproj|e:\\github\\reviewproject\\businesslayer\\service\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BDB5C6-B58A-4424-BCD3-B142BB9F06F9}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\service\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDFAA56-6DB2-46EC-B88C-CFEE4DC274C3}|ReviewProject\\ReviewProject.csproj|e:\\github\\reviewproject\\reviewproject\\controllers\\reviewprojectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDFAA56-6DB2-46EC-B88C-CFEE4DC274C3}|ReviewProject\\ReviewProject.csproj|solutionrelative:reviewproject\\controllers\\reviewprojectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDFAA56-6DB2-46EC-B88C-CFEE4DC274C3}|ReviewProject\\ReviewProject.csproj|e:\\github\\reviewproject\\reviewproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDFAA56-6DB2-46EC-B88C-CFEE4DC274C3}|ReviewProject\\ReviewProject.csproj|solutionrelative:reviewproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDFAA56-6DB2-46EC-B88C-CFEE4DC274C3}|ReviewProject\\ReviewProject.csproj|e:\\github\\reviewproject\\reviewproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCDFAA56-6DB2-46EC-B88C-CFEE4DC274C3}|ReviewProject\\ReviewProject.csproj|solutionrelative:reviewproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDFAA56-6DB2-46EC-B88C-CFEE4DC274C3}|ReviewProject\\ReviewProject.csproj|e:\\github\\reviewproject\\reviewproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCDFAA56-6DB2-46EC-B88C-CFEE4DC274C3}|ReviewProject\\ReviewProject.csproj|solutionrelative:reviewproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDFAA56-6DB2-46EC-B88C-CFEE4DC274C3}|ReviewProject\\ReviewProject.csproj|e:\\github\\reviewproject\\reviewproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCDFAA56-6DB2-46EC-B88C-CFEE4DC274C3}|ReviewProject\\ReviewProject.csproj|solutionrelative:reviewproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BDB5C6-B58A-4424-BCD3-B142BB9F06F9}|BusinessLayer\\BusinessLayer.csproj|e:\\github\\reviewproject\\businesslayer\\interface\\iemployeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BDB5C6-B58A-4424-BCD3-B142BB9F06F9}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\interface\\iemployeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AE32C3-398D-44E8-A7A2-AC4AA54A79E4}|RepositoryLayer\\RepositoryLayer.csproj|e:\\github\\reviewproject\\repositorylayer\\context\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AE32C3-398D-44E8-A7A2-AC4AA54A79E4}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\context\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AE32C3-398D-44E8-A7A2-AC4AA54A79E4}|RepositoryLayer\\RepositoryLayer.csproj|e:\\github\\reviewproject\\repositorylayer\\entity\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AE32C3-398D-44E8-A7A2-AC4AA54A79E4}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\entity\\employeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AE5DEE-DCFD-44FB-9E1D-3D9D5151FC56}|ModelLayer\\ModelLayer.csproj|e:\\github\\reviewproject\\modellayer\\model\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AE5DEE-DCFD-44FB-9E1D-3D9D5151FC56}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\model\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AE5DEE-DCFD-44FB-9E1D-3D9D5151FC56}|ModelLayer\\ModelLayer.csproj|e:\\github\\reviewproject\\modellayer\\model\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AE5DEE-DCFD-44FB-9E1D-3D9D5151FC56}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\model\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDFAA56-6DB2-46EC-B88C-CFEE4DC274C3}|ReviewProject\\ReviewProject.csproj|e:\\github\\reviewproject\\reviewproject\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FCDFAA56-6DB2-46EC-B88C-CFEE4DC274C3}|ReviewProject\\ReviewProject.csproj|solutionrelative:reviewproject\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDFAA56-6DB2-46EC-B88C-CFEE4DC274C3}|ReviewProject\\ReviewProject.csproj|e:\\github\\reviewproject\\reviewproject\\log\\app.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FCDFAA56-6DB2-46EC-B88C-CFEE4DC274C3}|ReviewProject\\ReviewProject.csproj|solutionrelative:reviewproject\\log\\app.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDFAA56-6DB2-46EC-B88C-CFEE4DC274C3}|ReviewProject\\ReviewProject.csproj|e:\\github\\reviewproject\\reviewproject\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FCDFAA56-6DB2-46EC-B88C-CFEE4DC274C3}|ReviewProject\\ReviewProject.csproj|solutionrelative:reviewproject\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AE32C3-398D-44E8-A7A2-AC4AA54A79E4}|RepositoryLayer\\RepositoryLayer.csproj|e:\\github\\reviewproject\\repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25AE32C3-398D-44E8-A7A2-AC4AA54A79E4}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDFAA56-6DB2-46EC-B88C-CFEE4DC274C3}|ReviewProject\\ReviewProject.csproj|e:\\github\\reviewproject\\reviewproject\\reviewproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCDFAA56-6DB2-46EC-B88C-CFEE4DC274C3}|ReviewProject\\ReviewProject.csproj|solutionrelative:reviewproject\\reviewproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AE5DEE-DCFD-44FB-9E1D-3D9D5151FC56}|ModelLayer\\ModelLayer.csproj|e:\\github\\reviewproject\\modellayer\\modellayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79AE5DEE-DCFD-44FB-9E1D-3D9D5151FC56}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\modellayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AE32C3-398D-44E8-A7A2-AC4AA54A79E4}|RepositoryLayer\\RepositoryLayer.csproj|e:\\github\\reviewproject\\repositorylayer\\migrations\\20250306105258_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AE32C3-398D-44E8-A7A2-AC4AA54A79E4}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\migrations\\20250306105258_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationAPIBL.cs",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\BusinessLayer\\Service\\RegistrationAPIBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Service\\RegistrationAPIBL.cs",
+              "ToolTip": "E:\\github\\ReviewProject\\BusinessLayer\\Service\\RegistrationAPIBL.cs",
+              "RelativeToolTip": "BusinessLayer\\Service\\RegistrationAPIBL.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwCoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:58:01.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRegistrationBL.cs",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\BusinessLayer\\Interface\\IRegistrationBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Interface\\IRegistrationBL.cs",
+              "ToolTip": "E:\\github\\ReviewProject\\BusinessLayer\\Interface\\IRegistrationBL.cs",
+              "RelativeToolTip": "BusinessLayer\\Interface\\IRegistrationBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:56:43.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\ReviewProject\\Program.cs",
+              "RelativeDocumentMoniker": "ReviewProject\\Program.cs",
+              "ToolTip": "E:\\github\\ReviewProject\\ReviewProject\\Program.cs",
+              "RelativeToolTip": "ReviewProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:40:00.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReviewProjectController.cs",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\ReviewProject\\Controllers\\ReviewProjectController.cs",
+              "RelativeDocumentMoniker": "ReviewProject\\Controllers\\ReviewProjectController.cs",
+              "ToolTip": "E:\\github\\ReviewProject\\ReviewProject\\Controllers\\ReviewProjectController.cs",
+              "RelativeToolTip": "ReviewProject\\Controllers\\ReviewProjectController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:36:08.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeBL.cs",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\BusinessLayer\\Service\\EmployeeBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Service\\EmployeeBL.cs",
+              "ToolTip": "E:\\github\\ReviewProject\\BusinessLayer\\Service\\EmployeeBL.cs",
+              "RelativeToolTip": "BusinessLayer\\Service\\EmployeeBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:18:08.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRL.cs",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\RepositoryLayer\\Service\\EmployeeRL.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Service\\EmployeeRL.cs",
+              "ToolTip": "E:\\github\\ReviewProject\\RepositoryLayer\\Service\\EmployeeRL.cs",
+              "RelativeToolTip": "RepositoryLayer\\Service\\EmployeeRL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:20:49.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeRL.cs",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\RepositoryLayer\\Interface\\IEmployeeRL.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Interface\\IEmployeeRL.cs",
+              "ToolTip": "E:\\github\\ReviewProject\\RepositoryLayer\\Interface\\IEmployeeRL.cs",
+              "RelativeToolTip": "RepositoryLayer\\Interface\\IEmployeeRL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:21:15.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRegistrationRL.cs",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\RepositoryLayer\\Interface\\IRegistrationRL.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Interface\\IRegistrationRL.cs",
+              "ToolTip": "E:\\github\\ReviewProject\\RepositoryLayer\\Interface\\IRegistrationRL.cs",
+              "RelativeToolTip": "RepositoryLayer\\Interface\\IRegistrationRL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:02:20.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\ReviewProject\\appsettings.json",
+              "RelativeDocumentMoniker": "ReviewProject\\appsettings.json",
+              "ToolTip": "E:\\github\\ReviewProject\\ReviewProject\\appsettings.json",
+              "RelativeToolTip": "ReviewProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T10:44:33.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250306105258_Initial-Migration.cs",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\RepositoryLayer\\Migrations\\20250306105258_Initial-Migration.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Migrations\\20250306105258_Initial-Migration.cs",
+              "ToolTip": "E:\\github\\ReviewProject\\RepositoryLayer\\Migrations\\20250306105258_Initial-Migration.cs",
+              "RelativeToolTip": "RepositoryLayer\\Migrations\\20250306105258_Initial-Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:53:02.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\ReviewProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ReviewProject\\appsettings.Development.json",
+              "ToolTip": "E:\\github\\ReviewProject\\ReviewProject\\appsettings.Development.json",
+              "RelativeToolTip": "ReviewProject\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T10:59:32.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeEntity.cs",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\RepositoryLayer\\Entity\\EmployeeEntity.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Entity\\EmployeeEntity.cs",
+              "ToolTip": "E:\\github\\ReviewProject\\RepositoryLayer\\Entity\\EmployeeEntity.cs",
+              "RelativeToolTip": "RepositoryLayer\\Entity\\EmployeeEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:04:34.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeDbcontext.cs",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\RepositoryLayer\\Context\\EmployeeDbcontext.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Context\\EmployeeDbcontext.cs",
+              "ToolTip": "E:\\github\\ReviewProject\\RepositoryLayer\\Context\\EmployeeDbcontext.cs",
+              "RelativeToolTip": "RepositoryLayer\\Context\\EmployeeDbcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:04:10.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\ReviewProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ReviewProject\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\github\\ReviewProject\\ReviewProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ReviewProject\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwBgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T10:59:44.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\ModelLayer\\Model\\UserResponse.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Model\\UserResponse.cs",
+              "ToolTip": "E:\\github\\ReviewProject\\ModelLayer\\Model\\UserResponse.cs",
+              "RelativeToolTip": "ModelLayer\\Model\\UserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:55:55.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployeeBL.cs",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\BusinessLayer\\Interface\\IEmployeeBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Interface\\IEmployeeBL.cs",
+              "ToolTip": "E:\\github\\ReviewProject\\BusinessLayer\\Interface\\IEmployeeBL.cs",
+              "RelativeToolTip": "BusinessLayer\\Interface\\IEmployeeBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:17:24.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\ModelLayer\\Model\\UserRequest.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Model\\UserRequest.cs",
+              "ToolTip": "E:\\github\\ReviewProject\\ModelLayer\\Model\\UserRequest.cs",
+              "RelativeToolTip": "ModelLayer\\Model\\UserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:55:02.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NLog.config",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\ReviewProject\\NLog.config",
+              "RelativeDocumentMoniker": "ReviewProject\\NLog.config",
+              "ToolTip": "E:\\github\\ReviewProject\\ReviewProject\\NLog.config",
+              "RelativeToolTip": "ReviewProject\\NLog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-06T09:25:19.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.Log",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\ReviewProject\\Log\\App.Log",
+              "RelativeDocumentMoniker": "ReviewProject\\Log\\App.Log",
+              "ToolTip": "E:\\github\\ReviewProject\\ReviewProject\\Log\\App.Log",
+              "RelativeToolTip": "ReviewProject\\Log\\App.Log",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-06T09:24:40.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NLog.config",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\ReviewProject\\NLog.config",
+              "RelativeDocumentMoniker": "ReviewProject\\NLog.config",
+              "ToolTip": "E:\\github\\ReviewProject\\ReviewProject\\NLog.config",
+              "RelativeToolTip": "ReviewProject\\NLog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-06T09:22:32.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RepositoryLayer.csproj",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeDocumentMoniker": "RepositoryLayer\\RepositoryLayer.csproj",
+              "ToolTip": "E:\\github\\ReviewProject\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeToolTip": "RepositoryLayer\\RepositoryLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-06T09:03:15.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReviewProject.csproj",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\ReviewProject\\ReviewProject.csproj",
+              "RelativeDocumentMoniker": "ReviewProject\\ReviewProject.csproj",
+              "ToolTip": "E:\\github\\ReviewProject\\ReviewProject\\ReviewProject.csproj",
+              "RelativeToolTip": "ReviewProject\\ReviewProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-06T08:58:10.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ModelLayer.csproj",
+              "DocumentMoniker": "E:\\github\\ReviewProject\\ModelLayer\\ModelLayer.csproj",
+              "RelativeDocumentMoniker": "ModelLayer\\ModelLayer.csproj",
+              "ToolTip": "E:\\github\\ReviewProject\\ModelLayer\\ModelLayer.csproj",
+              "RelativeToolTip": "ModelLayer\\ModelLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-06T08:54:15.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 335,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

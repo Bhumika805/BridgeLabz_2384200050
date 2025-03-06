@@ -1,0 +1,14 @@
+E:\github\ReviewProject\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+E:\github\ReviewProject\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.runtimeconfig.json
+E:\github\ReviewProject\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+E:\github\ReviewProject\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+E:\github\ReviewProject\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+E:\github\ReviewProject\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\ReviewProject\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+E:\github\ReviewProject\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+E:\github\ReviewProject\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+E:\github\ReviewProject\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+E:\github\ReviewProject\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+E:\github\ReviewProject\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+E:\github\ReviewProject\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.genruntimeconfig.cache
+E:\github\ReviewProject\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
