@@ -66,3 +66,5 @@ This is Readme File.
 
 33. Completed Task1 (Node.js Assignment - Array, Map) in feature_18-03-2025 branch.
 
+34. Completed Task1 (Angular Projecr) in feature_24-03-2025 branch.
+
